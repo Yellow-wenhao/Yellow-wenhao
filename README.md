@@ -29,17 +29,7 @@ Currently, I'm focusing on:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yellow-wenhao&layout=compact&theme=radical)
 
----
 
-## 🌐 Connect with Me
-
-Let's collaborate or chat about technology!
-
-- **Email**: [1930218221@qq.com](mailto:1930218221@qq.com)
-- **LinkedIn**: [Yellowwenhao](https://www.linkedin.com/in/yellowwenhao)
-- **Blog**: [My Tech Blog](https://Yellow-wenhao-blog.com)
-
----
 
 ## 💡 Fun Fact
 
