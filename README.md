@@ -11,9 +11,7 @@ I'm a passionate developer and student at **Beijing Institute of Technology**. I
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -24,17 +22,7 @@ Currently, I'm focusing on:
 - **Large Language Models (LLMs)**: Exploring the architecture and applications of state-of-the-art models like GPT and BERT.
 - **Best Practices in AI Development**: Learning about model optimization, deployment, and ethical AI.
 
----
 
-## 🚀 Projects
-
-Here are some of the projects I've worked on:
-
-- **[Image Classification with PyTorch]()** - A deep learning project to classify images using convolutional neural networks (CNNs).
-- **[MATLAB Signal Processing]()** - A collection of scripts for analyzing and processing signals in MATLAB.
-- **[Chatbot with GPT]()** - A simple chatbot built using OpenAI's GPT model for natural language understanding.
-
----
 
 ## 📊 GitHub Stats
 
