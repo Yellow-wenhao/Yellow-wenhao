@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi there, I'm Yellowwenhao 👋
+# Hi there, I'm Yellow-wenhao 👋
 
 I'm a passionate developer and student at **Beijing Institute of Technology**. I specialize in **Python** and **MATLAB**, and I'm currently diving deep into **Deep Learning** and **Large Language Models**. I love exploring the intersection of technology and innovation to solve real-world problems.
 
@@ -26,9 +26,9 @@ Currently, I'm focusing on:
 
 ## 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yellowwenhao&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yellow-wenhao&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yellowwenhao&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yellow-wenhao&layout=compact&theme=radical)
 
 ---
 
@@ -36,9 +36,9 @@ Currently, I'm focusing on:
 
 Let's collaborate or chat about technology!
 
-- **Email**: [yellowwenhao@example.com](mailto:yellowwenhao@example.com)
+- **Email**: [1930218221@qq.com](mailto:1930218221@qq.com)
 - **LinkedIn**: [Yellowwenhao](https://www.linkedin.com/in/yellowwenhao)
-- **Blog**: [My Tech Blog](https://yellowwenhao-blog.com)
+- **Blog**: [My Tech Blog](https://Yellow-wenhao-blog.com)
 
 ---
 
