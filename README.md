@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm Yellow-wenhao 👋
 
 I'm a passionate developer and student at **Beijing Institute of Technology**. I specialize in **Python** and **MATLAB**, and I'm currently diving deep into **Deep Learning** and **Large Language Models**. I love exploring the intersection of technology and innovation to solve real-world problems.
