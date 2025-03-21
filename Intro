@@ -1,4 +1,4 @@
-name: generate animation
+name: intro
 
 on:
   # run automatically every 2 hours
