@@ -21,7 +21,11 @@ Currently, I'm focusing on:
 - **Large Language Models (LLMs)**: Exploring the architecture and applications of state-of-the-art models like GPT and BERT.
 - **Best Practices in AI Development**: Learning about model optimization, deployment, and ethical AI.
 
-![Snake Animation](https://raw.githubusercontent.com/<Yellow-wenhao>/<Yellow-wenhao>/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yellow-wenhao/Yellow-wenhao/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yellow-wenhao/Yellow-wenhao/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yellow-wenhao/Yellow-wenhao/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 📊 GitHub Stats
 
